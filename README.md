@@ -4,6 +4,7 @@ The best game ever.
 
 Home is still at [rephial.org](https://rephial.org/),
 and I'm still on the [ladder](http://angband.oook.cz/ladder-show.php?id=2010).
+Also, I [once](./Mpiper-with-One-Ring) found the One Ring.
 
 ## usage notes
 
