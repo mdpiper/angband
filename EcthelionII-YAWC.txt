@@ -1,0 +1,253 @@
+  [Angband 3.0.3 Character Dump]
+
+ Name   Ecthelion II                             Self  RB  CB  EB   Best
+ Sex    Male              Age        52   STR! 18/100  +1  +3 +14218/1560
+ Race   Dunadan           Height     88   INT! 18/100  +2  -3 +13218/1410
+ Class  Paladin           Weight    171   WIS! 18/100  +2  +1 +13418/1470
+ Title  ***WINNER***      Status      1   DEX! 18/100  +2  +0 +13018/1420
+ HP     1051/1051         Maximize    Y   CON! 18/100  +3  +2 +13818/1530
+ SP     382/382           Preserve    Y   CHR! 18/100  +2  +2 +13818/1520
+
+ Level           50       Armor    [56,+117]     Saving Throw     Heroic
+ Cur Exp   18929756       Fight    (+59,+53)     Stealth       Very Good
+ Max Exp   18929756       Melee    (+78,+74)     Fighting      Legendary
+ Adv Exp   ********       Shoot    (+69,+14)     Shooting      Legendary
+                          Blows       5/turn     Disarming        Superb
+ Gold       3038885       Shots       1/turn     Magic Device     Heroic
+                                                 Perception         Poor
+ Burden   269.6 lbs       Infra      1290 ft     Searching          Poor
+
+ You are one of several children of a Serf.  You are the black sheep of
+ the family.  You have blue-gray eyes, wavy red hair, and an average
+ complexion.
+
+
+
+  [Character Equipment]
+
+a) The Two-Handed Sword 'Zarcuthra' (4d6) (+19,+21) (+4)
+   It increases your strength and charisma by 4.  It increases your 
+   infravision by 4.  It slays animals, orcs, trolls, giants, demons, 
+   undead, and all evil creatures, and it is especially deadly against 
+   dragons.  It is branded with fire.  It provides resistance to fire and 
+   chaos.  It grants you immunity to paralysis and the ability to see
+   invisible things, but it also aggravates creatures around you.  It
+   cannot be harmed by the elements.  
+b) The Light Crossbow 'Cubragol' (x3) (+10,+14) (+10)
+   It increases your speed by 10.  It provides resistance to fire.  It
+   activates for fire branding of bolts every 999 turns.  It cannot be
+   harmed by the elements.  
+c) The Ring of Power 'Nenya' (+8,+8) (+2)
+   It increases all your stats by 2.  It increases your speed by 2.  It
+   provides immunity to cold.  It provides resistance to blindness and 
+   life draining.  It sustains your intelligence, wisdom, and charisma.  
+   It makes you fall like a feather and speeds your regeneration.  It
+   grants you immunity to paralysis, the power of telepathy, and the
+   ability to see invisible things.  It activates for large frost ball
+   (200) every 20+d20 turns.  It cannot be harmed by the elements.  
+d) The Ring of Power 'Vilya' (+10,+10) (+3)
+   It increases all your stats by 3.  It increases your speed by 3.  It
+   provides immunity to lightning.  It provides resistance to poison, 
+   disenchantment, and life draining.  It sustains your strength, 
+   dexterity, and constitution.  It slows your metabolism, makes you fall
+   like a feather, and speeds your regeneration.  It grants you immunity
+   to paralysis and the ability to see invisible things.  It activates for 
+   large lightning ball (250) every 20+d20 turns.  It cannot be harmed by
+   the elements.  
+e) The Elfstone 'Elessar' (+7,+7) [+10] (+2)
+   It increases your strength, wisdom, and charisma by 2.  It increases
+   your speed by 2.  It provides resistance to fire, poison, and fear.  It
+   activates for heal (500) every 200 turns.  It cannot be harmed by the
+   elements.  
+f) The Arkenstone of Thrain
+   It provides resistance to light, dark, and life draining.  It lights
+   the dungeon around you.  It grants you the ability to see invisible
+   things.  It activates for detection every 30+d30 turns.  It cannot be
+   harmed by the elements.  
+g) The Adamantite Plate Mail 'Soulkeeper' (-4) [40,+20] (+2)
+   It increases your constitution by 2.  It provides resistance to acid, 
+   cold, fear, dark, confusion, nexus, nether, chaos, and life draining.  
+   It sustains your constitution.  It activates for heal (1000) every 444
+   turns.  It cannot be harmed by the elements.  
+h) The Shadow Cloak of Luthien [6,+20] (+2) (charging)
+   It increases your intelligence, wisdom, and charisma by 2.  It
+   increases your stealth and speed by 2.  It provides resistance to acid, 
+   fire, and cold.  It activates for restore life levels every 250 turns.  
+   It cannot be harmed by the elements.  
+i) The Small Metal Shield of Thorin [3,+25] (+4)
+   It increases your strength and constitution by 4.  It provides immunity
+   to acid.  It provides resistance to fear, sound, and chaos.  It grants
+   you immunity to paralysis.  It cannot be harmed by the elements.  
+j) The Massive Iron Crown of Morgoth [0,+0] (+125) {cursed}
+   It increases all your stats by 125.  It increases your infravision by
+   125.  It provides resistance to acid, lightning, fire, cold, poison, 
+   fear, light, dark, confusion, nexus, and nether.  It lights the dungeon
+   around you.  It grants you the power of telepathy and the ability to
+   see invisible things, but it also is permanently cursed.  It cannot be
+   harmed by the elements.  
+k) The Set of Leather Gloves 'Cambeleg' (+8,+8) [1,+15] (+2)
+   It increases your strength and constitution by 2.  It grants you 
+   immunity to paralysis.  It cannot be harmed by the elements.  
+l) a Pair of Metal Shod Boots of Speed [6,+12] (+10)
+   It increases your speed by 10.  
+
+
+  [Character Inventory]
+
+a) 2 Holy Books of Prayers [Beginners Handbook]
+b) 2 Holy Books of Prayers [Words of Wisdom]
+c) 2 Holy Books of Prayers [Chants and Blessings]
+d) 2 Holy Books of Prayers [Exorcism and Dispelling]
+e) a Holy Book of Prayers [Ethereal Openings]
+   It cannot be harmed by the elements.  
+f) a Holy Book of Prayers [Godly Insights]
+   It cannot be harmed by the elements.  
+g) a Holy Book of Prayers [Purifications and Healing]
+   It cannot be harmed by the elements.  
+h) a Holy Book of Prayers [Holy Infusions]
+   It cannot be harmed by the elements.  
+i) a Holy Book of Prayers [Wrath of God]
+   It cannot be harmed by the elements.  
+j) 2 Red Potions of Heroism
+k) 4 Dark Green Potions of Healing
+l) 8 Dark Red Potions of Restore Mana
+m) 2 Scrolls titled "petsri akstem" of Banishment
+n) a Scroll titled "nagsa oodblaa" of Mass Banishment
+o) an Aluminium Wand of Stone to Mud (0 charges)
+p) The Ring of Power 'Narya' (+6,+6) (+1)
+   It increases all your stats by 1.  It increases your speed by 1.  It
+   provides immunity to fire.  It provides resistance to fear and nether.  
+   It sustains your strength, wisdom, constitution, and charisma.  It 
+   slows your metabolism and speeds your regeneration.  It grants you 
+   immunity to paralysis and the ability to see invisible things.  It
+   activates for large fire ball (120) every 20+d20 turns.  It cannot be
+   harmed by the elements.  
+q) The Palantir of Westernesse (+2) (charging)
+   It increases your intelligence and wisdom by 2.  It increases your 
+   searching and infravision by 2.  It provides resistance to blindness
+    and chaos.  It lights the dungeon around you.  It grants you the power
+   of telepathy and the ability to see invisible things, but it also 
+   aggravates creatures around you and drains experience.  It activates
+   for clairvoyance every 50+d50 turns.  It cannot be harmed by the
+   elements.  
+r) The Metal Cap of Celebrimbor [3,+18] (+3 to searching)
+   It increases your intelligence, dexterity, and charisma by 3.  It
+   increases your searching by 3.  It provides resistance to acid, fire, 
+   shards, and disenchantment.  It cannot be harmed by the elements.  
+s) The Mighty Hammer 'Grond' (9d9) (+5,+25) [+10]
+   It slays animals, orcs, trolls, and all evil creatures, and it is
+   especially deadly against dragons, demons, and undead.  It creates
+   earthquakes on impact.  It grants you the power of telepathy and the
+   ability to see invisible things, but it also aggravates creatures
+   around you.  It cannot be harmed by the elements.  
+t) 18 Mithril Bolts (3d5) (+9,+10)
+   It cannot be harmed by acid and fire.  
+
+
+  [Home Inventory]
+
+a) 8 Dark Green Potions of Healing
+b) 3 Pungent Potions of *Healing*
+c) 2 Cyan Potions of Life
+d) 5 Dark Red Potions of Restore Mana
+e) 6 Scrolls titled "sunorg glenbat" of *Identify*
+f) 3 Scrolls titled "petsri akstem" of Banishment
+g) 4 Scrolls titled "nagsa oodblaa" of Mass Banishment
+h) an Amethyst Ring of Speed (+10)
+   It increases your speed by 10.  
+i) The Necklace of the Dwarves (+3)
+   It increases your strength and constitution by 3.  It increases your 
+   infravision by 3.  It provides resistance to fear.  It lights the
+   dungeon around you and speeds your regeneration.  It grants you 
+   immunity to paralysis and the ability to see invisible things.  It
+   cannot be harmed by the elements.  
+j) The Balance Dragon Scale Mail 'Mediator' (-4) [30,+25]
+   It provides resistance to confusion, sound, shards, nexus, chaos, and 
+   disenchantment.  It slows your metabolism and speeds your regeneration.
+   It grants you immunity to paralysis, but it also aggravates creatures
+   around you.  It activates for star ball (150) every 50 turns.  It
+   cannot be harmed by the elements.  
+k) The Augmented Chain Mail of Caspanion (-2) [16,+20] (+3)
+   It increases your intelligence, wisdom, and constitution by 3.  It
+   provides resistance to acid, poison, and confusion.  It activates for 
+   door and trap destruction every 10 turns.  It cannot be harmed by the
+   elements.  
+l) The Mithril Plate Mail of Celeborn (-3) [35,+25] (+4)
+   It increases your strength and charisma by 4.  It provides resistance
+   to acid, lightning, fire, cold, dark, and disenchantment.  It activates
+   for banishment every 500 turns.  It cannot be harmed by the elements.  
+m) The Shadow Cloak of Tuor [6,+12] (+4)
+   It increases your dexterity by 4.  It increases your stealth by 4.  It
+   provides immunity to acid.  It grants you immunity to paralysis and the
+   ability to see invisible things.  It cannot be harmed by the elements.  
+   
+n) The Large Leather Shield of the Haradrim [4,+15] (+2)
+   It increases your strength and constitution by 2.  It provides
+   resistance to poison, fear, and blindness.  It sustains your strength
+    and constitution.  It aggravates creatures around you.  It activates
+   for berserk rage (50+d50 turns) every 50 turns.  It cannot be harmed by
+   the elements.  
+o) The Shield of Deflection of Gil-galad [10,+20] (+5)
+   It increases your wisdom and charisma by 5.  It provides resistance to 
+   acid, lightning, dark, and disenchantment.  It sustains your wisdom, 
+   dexterity, and charisma.  It lights the dungeon around you.  It
+   activates for starlight (10d8) every 100 turns.  It cannot be harmed by
+   the elements.  
+p) The Iron Helm 'Holhenneth' [5,+10] (+2)
+   It increases your intelligence and wisdom by 2.  It increases your 
+   searching by 2.  It provides resistance to blindness and confusion.  It
+   grants you the ability to see invisible things.  It activates for 
+   detection every 55+d55 turns.  It cannot be harmed by the elements.  
+q) The Steel Helm of Hammerhand [6,+20] (+3)
+   It increases your strength, dexterity, and constitution by 3.  It
+   provides resistance to acid, cold, dark, and nexus.  It sustains your 
+   strength, dexterity, and constitution.  It aggravates creatures around
+   you.  It cannot be harmed by the elements.  
+r) a Set of Cesti of Agility [5,+10] (+5)
+   It increases your dexterity by 5.  
+s) The Bastard Sword 'Calris' (5d4) (+9,+20) (+5) {uncursed}
+   It increases your constitution by 5.  It slays trolls, demons, and all
+   evil creatures, and it is especially deadly against dragons.  It
+   provides resistance to disenchantment.  It aggravates creatures around
+   you.  It cannot be harmed by the elements.  
+t) a Gnomish Shovel of Digging (1d2) (+12,+10) (+6)
+   It increases your tunneling by 6.  It is branded with acid.  
+u) The Short Bow of Amras (x2) (+12,+15) (+1 to speed)
+   It increases your intelligence, wisdom, and dexterity by 1.  It
+   increases your speed, shooting speed, and shooting power by 1.  It
+   provides resistance to lightning, fire, and cold.  It slows your
+   metabolism.  It cannot be harmed by the elements.  
+v) The Short Bow of Amrod (x2) (+12,+15) (+2)
+   It increases your strength and constitution by 2.  It increases your 
+   shooting power by 2.  It provides resistance to lightning, fire, and 
+   cold.  It speeds your regeneration.  It cannot be harmed by the
+   elements.  
+w) The Long Bow 'Belthronding' (x3) (+20,+22) (+1)
+   It increases your dexterity by 1.  It increases your stealth, speed,
+    and shooting speed by 1.  It provides resistance to disenchantment.  
+   It cannot be harmed by the elements.  
+x) 24 Mithril Arrows of Holy Might (3d4) (+13,+21)
+   It slays demons, undead, and all evil creatures.  It is branded with 
+   fire.  It is blessed by the gods.  It cannot be harmed by acid and fire
+   .  
+
+
+  [Options]
+
+Adult: Allow purchase of stats using points  : yes (adult_point_based)
+Adult: Allow specification of minimal stats  : no  (adult_auto_roller)
+Adult: Maximize effect of race/class bonuses : yes (adult_maximize)
+Adult: Preserve artifacts when leaving level : yes (adult_preserve)
+Adult: Restrict the use of stairs/recall     : no  (adult_ironman)
+Adult: Restrict the use of stores/home       : no  (adult_no_stores)
+Adult: Restrict creation of artifacts        : no  (adult_no_artifacts)
+Adult: Randomize some of the artifacts (beta): no  (adult_rand_artifacts)
+Adult: Don't stack objects on the floor      : no  (adult_no_stacking)
+Score: Peek into object creation             : no  (score_peek)
+Score: Peek into monster creation            : no  (score_hear)
+Score: Peek into dungeon creation            : no  (score_room)
+Score: Peek into something else              : no  (score_xtra)
+Score: Know complete monster info            : no  (score_know)
+Score: Allow player to avoid death           : no  (score_live)
+
+

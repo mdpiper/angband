@@ -1,0 +1,286 @@
+  [Angband 3.0.9 Character Dump]
+
+ Name   Feanor                                   Self  RB  CB  EB   Best
+ Sex    Male              Age        35   STR! 18/100  +0  +2 +11 18/230
+ Race   Half-Elf          Height     68   INT! 18/100  +1  +1 +11 18/230
+ Class  Rogue             Weight    158   WIS! 18/100  -1  -2 +13 18/200
+ Title  ***WINNER***      Status     48   DEX! 18/100  +1  +3 +17 18/310
+ HP     1098/1098         Maximize    Y   CON! 18/100  -1  +1 +11 18/210
+ SP     343/343                           CHR! 18/100  +1  -1 +10 18/200
+
+ Level           50       Armor   [57,+151]     Saving Throw      Heroic
+ Cur Exp   14524507       Fight   (+61,+55)     Stealth           Superb
+ Max Exp   14524507       Melee   (+76,+80)     Fighting       Legendary
+ Adv Exp   ********       Shoot   (+81,+22)     Shooting       Legendary
+ MaxDepth   Lev 101       Blows      5/turn     Disarming      Legendary
+ Turns      2833747       Shots      2/turn     Magic Device      Heroic
+ Gold      12325662       Infra       40 ft     Perception        Superb
+ Burden   152.8 lbs       Speed          11     Searching         Superb
+
+ Your father was of the Sindar.  You are one of several children of a
+ Yeoman.  You are a credit to the family.  You have brown eyes,
+ straight auburn hair, and an average complexion.
+
+
+      abcdefghijkl@       abcdefghijkl@
+ Acid:......+.*.+.. Blind:..+..+...+...
+ Elec:...*......... Confu:......+......
+ Fire:....+........ Sound:........++...
+ Cold:+.*...+..+... Shard:.........+...
+ Pois:...++........ Nexus:......+......
+ Fear:+...+.+.+.... Nethr:......+......
+ Lite:.........+... Chaos:.....++.+....
+ Dark:......+..+... Disen:.+.+.........
+
+      abcdefghijkl@       abcdefghijkl@
+S.Dig:+..+......... Stea.:.+.....+...+.
+Feath:..++......... Sear.:.....+...+...
+PLite:.........+... Infra:.....+.......
+Regen:..++...+..... Tunn.:.............
+Telep:..+..+....... Speed:.++++....+...
+Invis:..++.+...+... Blows:.............
+FrAct:+.++....+++.. Shots:.+...........
+HLife:..++..+...... Might:.............
+
+
+  [Last Messages]
+
+> In your pack: a Runed Staff of Holiness (0 charges) (o).
+> You have no more Runed Staffs of Holiness (0 charges) (o).
+> You have a Mahogany Staff of Banishment (0 charges) (o).
+> You have no more Mahogany Staffs of Banishment (0 charges) (o).
+> You drop 2 Books of Magic Spells [Tenser's Transformations] (h).
+> You have a Book of Magic Spells [Tenser's Transformations] (h).
+> You drop a Book of Magic Spells [Mordenkainen's Escapes] (g).
+> You have a Book of Magic Spells [Mordenkainen's Escapes] (g).
+> You drop 2 Books of Magic Spells [Resistances of Scarabtarices] (e).
+> You have a Book of Magic Spells [Resistances of Scarabtarices] (e).
+> The air about you becomes charged...
+> You feel yourself yanked upwards!
+> The Scruffy little dog wakes up.
+> You drop The Massive Iron Crown of Morgoth [0,+0] (+125) {cursed} (p).
+> You drop The Mighty Hammer 'Grond' (9d9) (+5,+25) [+10] (p).
+
+
+  [Character Equipment]
+
+a) The Spear 'Aeglos' (3d6) (+15,+25) [+5] (+4)
+   It increases your wisdom and dexterity by 4.  It slays orcs, trolls, 
+   and all evil creatures, and is especially deadly against undead.  It
+   is branded with frost.  It provides resistance to cold and fear.  It 
+   is blessed by the gods and slows your metabolism.  It grants you 
+   immunity to paralysis.  It activates for frost ball (100) every 35
+   turns.  It cannot be harmed by the elements.  
+b) The Long Bow 'Belthronding' (x3) (+20,+22) (+1)
+   It increases your dexterity by 1.  It increases your stealth, speed, 
+   and shooting speed by 1.  It provides resistance to disenchantment.  
+   It cannot be harmed by the elements.  
+c) The Ring of Power 'Nenya' (+8,+8) (+2)
+   It increases all your stats by 2.  It increases your speed by 2.  It
+   provides immunity to cold.  It provides resistance to blindness and 
+   life draining.  It sustains your intelligence, wisdom, and charisma.
+   It makes you fall like a feather and speeds your regeneration.  It
+   grants you immunity to paralysis, the power of telepathy, and the
+   ability to see invisible things.  It activates for large frost ball
+   (200) every 20+d20 turns.  It cannot be harmed by the elements.  
+d) The Ring of Power 'Vilya' (+10,+10) (+3)
+   It increases all your stats by 3.  It increases your speed by 3.  It
+   provides immunity to lightning.  It provides resistance to poison, 
+   disenchantment, and life draining.  It sustains your strength, 
+   dexterity, and constitution.  It slows your metabolism, makes you
+   fall like a feather, and speeds your regeneration.  It grants you 
+   immunity to paralysis and the ability to see invisible things.  It
+   activates for large lightning ball (250) every 20+d20 turns.  It
+   cannot be harmed by the elements.  
+e) The Elfstone 'Elessar' (+7,+7) [+10] (+2)
+   It increases your strength, wisdom, and charisma by 2.  It increases
+   your speed by 2.  It provides resistance to fire, poison, and fear.  
+   It activates for heal (500) every 200 turns.  It cannot be harmed by
+   the elements.  
+f) The Palantir of Westernesse (+2)
+   It increases your intelligence and wisdom by 2.  It increases your 
+   searching and infravision by 2.  It provides resistance to blindness 
+   and chaos.  It usually provides light of radius 3.  It grants you 
+   the power of telepathy and the ability to see invisible things, but
+   it also aggravates creatures around you and drains experience.  It
+   activates for clairvoyance every 50+d50 turns.  It cannot be harmed
+   by the elements.  
+g) The Adamantite Plate Mail 'Soulkeeper' (-4) [40,+20] (+2)
+   It increases your constitution by 2.  It provides resistance to acid,
+   cold, fear, dark, confusion, nexus, nether, chaos, and life draining.
+   It sustains your constitution.  It activates for heal (1000) every
+   444 turns.  It cannot be harmed by the elements.  
+h) a Shadow Cloak of the Magi [6,+20] (+1)
+   It increases your intelligence by 1.  It increases your stealth by
+   1.  It sustains your intelligence.  It speeds your regeneration.  It
+   cannot be harmed by acid.  
+i) The Small Metal Shield of Thorin [3,+25] (+4)
+   It increases your strength and constitution by 4.  It provides
+   immunity to acid.  It provides resistance to fear, sound, and chaos.
+   It grants you immunity to paralysis.  It cannot be harmed by the
+   elements.  
+j) The Jewel Encrusted Crown of Numenor [0,+18] (+3)
+   It increases your intelligence, dexterity, and charisma by 3.  It
+   increases your searching and speed by 3.  It provides resistance to 
+   cold, light, dark, blindness, sound, and shards.  It usually
+   provides light of radius 4.  It grants you immunity to paralysis and 
+   the ability to see invisible things.  It cannot be harmed by the
+   elements.  
+k) The Set of Cesti of Fingolfin (+10,+10) [5,+20] (+4)
+   It increases your dexterity by 4.  It provides resistance to acid.  
+   It grants you immunity to paralysis.  It activates for a magical
+   arrow (150) every 30+d30 turns.  It cannot be harmed by the
+   elements.  
+l) a Pair of Hard Leather Boots of Stealth [3,+18] (+1)
+   It increases your stealth by 1.  
+
+
+  [Character Inventory]
+
+a) 2 Books of Magic Spells [Magic for Beginners]
+b) 2 Books of Magic Spells [Conjurings and Tricks]
+c) a Book of Magic Spells [Incantations and Illusions]
+d) 2 Books of Magic Spells [Sorcery and Evocations]
+e) a Book of Magic Spells [Resistances of Scarabtarices]
+   It cannot be harmed by the elements.  
+f) a Book of Magic Spells [Raal's Tome of Destruction]
+   It cannot be harmed by the elements.  
+g) a Book of Magic Spells [Mordenkainen's Escapes]
+   It cannot be harmed by the elements.  
+h) a Book of Magic Spells [Tenser's Transformations]
+   It cannot be harmed by the elements.  
+i) 5 Orange Potions of Speed
+j) 8 Hazy Potions of Healing
+k) a Magenta Potion of *Healing*
+l) 5 Orange Speckled Potions of Life
+m) 5 Scrolls titled "co ex ubio mus" of *Identify*
+n) 6 Steel-Plated Rods of Teleport Other
+o) The Ring of Power 'Narya' (+6,+6) (+1)
+   It increases all your stats by 1.  It increases your speed by 1.  It
+   provides immunity to fire.  It provides resistance to fear and 
+   nether.  It sustains your strength, wisdom, constitution, and 
+   charisma.  It slows your metabolism and speeds your regeneration.  
+   It grants you immunity to paralysis and the ability to see invisible
+   things.  It activates for large fire ball (120) every 20+d20 turns.  
+   It cannot be harmed by the elements.  
+p) 49 Mithril Arrows of Frost (3d4) (+9,+9)
+   It is branded with frost.  It cannot be harmed by acid, fire, or 
+   cold.  
+
+
+  [Home Inventory]
+
+a) 5 Violet Mushrooms of Restoring
+b) 18 Hazy Potions of Healing
+c) 11 Magenta Potions of *Healing*
+d) 6 Orange Speckled Potions of Life
+e) 29 Oily Yellow Potions of Restore Mana
+f) 3 Pink Potions of Restore Life Levels
+g) 2 Scrolls titled "co ex ubio mus" of *Identify*
+h) 3 Steel-Plated Rods of Teleport Other
+i) an Adamantite Ring of Speed (+11)
+   It increases your speed by 11.  
+j) The Amulet of Ingwe (+3)
+   It increases your intelligence, wisdom, and charisma by 3.  It
+   increases your infravision by 3.  It provides resistance to acid, 
+   lightning, and cold.  It grants you immunity to paralysis and the
+   ability to see invisible things.  It activates for dispel evil (x5)
+   every 50+d50 turns.  It cannot be harmed by the elements.  
+k) The Necklace of the Dwarves (+3)
+   It increases your strength and constitution by 3.  It increases your 
+   infravision by 3.  It provides resistance to fear.  It usually
+   provides light of radius 4.  It speeds your regeneration.  It grants
+   you immunity to paralysis and the ability to see invisible things.  
+   It cannot be harmed by the elements.  
+l) The Arkenstone of Thrain
+   It provides resistance to light, dark, and life draining.  It
+   usually provides light of radius 3.  It grants you the ability to
+   see invisible things.  It activates for detection every 30+d30 turns.
+   It cannot be harmed by the elements.  
+m) The Augmented Chain Mail of Caspanion (-2) [16,+20] (+3)
+   It increases your intelligence, wisdom, and constitution by 3.  It
+   provides resistance to acid, poison, and confusion.  It activates
+   for door and trap destruction every 10 turns.  It cannot be harmed
+   by the elements.  
+n) The Mithril Plate Mail of Celeborn (-3) [35,+25] (+4)
+   It increases your strength and charisma by 4.  It provides
+   resistance to acid, lightning, fire, cold, dark, and disenchantment.
+   It activates for banishment every 500 turns.  It cannot be harmed by
+   the elements.  
+o) a Shadow Cloak of Aman [6,+19] (+1 to stealth)
+   It increases your stealth by 1.  It provides resistance to confusion.
+   It cannot be harmed by the elements.  
+p) The Massive Iron Crown of Morgoth [0,+0] (+125) {cursed}
+   It increases all your stats by 125.  It increases your infravision
+   by 125.  It provides resistance to acid, lightning, fire, cold, 
+   poison, fear, light, dark, confusion, nexus, and nether.  It usually
+   provides light of radius 4.  It grants you the power of telepathy 
+   and the ability to see invisible things, but it also is permanently
+   cursed.  It cannot be harmed by the elements.  
+q) The Steel Helm of Hammerhand [6,+20] (+3)
+   It increases your strength, dexterity, and constitution by 3.  It
+   provides resistance to acid, cold, dark, and nexus.  It sustains
+   your strength, dexterity, and constitution.  It aggravates creatures
+   around you.  It cannot be harmed by the elements.  
+r) The Set of Gauntlets of Eol (-5,-5) [2,+15] (+3)
+   It increases your intelligence by 3.  It provides resistance to 
+   lightning, poison, and dark.  It makes you fall like a feather.  It
+   grants you immunity to paralysis, but it also aggravates creatures
+   around you.  It activates for mana bolt (12d8) every 30+d30 turns.  
+   It cannot be harmed by the elements.  
+s) The Small Sword 'Sting' (1d6) (+8,+8) (+2)
+   It increases your strength, dexterity, and constitution by 2.  It
+   increases your speed and attack speed by 2.  It slays animals, orcs, 
+   undead, and all evil creatures.  It provides resistance to fear and 
+   light.  It usually provides light of radius 4.  It grants you 
+   immunity to paralysis and the ability to see invisible things.  It
+   cannot be harmed by the elements.  
+t) The War Hammer of Aule (9d3) (+15,+17) [+2] (+4)
+   It increases your wisdom by 4.  It increases your tunneling by 4.  
+   It slays demons, undead, and all evil creatures, and is especially
+   deadly against dragons.  It is branded with acid.  It provides
+   resistance to acid, lightning, fire, cold, fear, and nexus.  It
+   grants you immunity to paralysis and the ability to see invisible
+   things.  It cannot be harmed by the elements.  
+u) The Mighty Hammer 'Grond' (9d9) (+5,+25) [+10]
+   It slays animals, orcs, trolls, and all evil creatures, and is
+   especially deadly against dragons, demons, and undead.  It creates
+   earthquakes on impact.  It grants you the power of telepathy and the
+   ability to see invisible things, but it also aggravates creatures
+   around you.  It cannot be harmed by the elements.  
+v) The Short Bow of Amras (x2) (+12,+15) (+1 to speed)
+   It increases your intelligence, wisdom, and dexterity by 1.  It
+   increases your speed, shooting speed, and shooting power by 1.  It
+   provides resistance to lightning, fire, and cold.  It slows your
+   metabolism.  It cannot be harmed by the elements.  
+w) The Long Bow of Bard (x3) (+15,+16) (+2)
+   It increases your dexterity by 2.  It increases your speed and 
+   shooting power by 2.  It grants you immunity to paralysis.  It
+   cannot be harmed by the elements.  
+
+
+  [Options]
+
+Adult: Maximize effect of race/class bonuses : yes (adult_maximize)
+Adult: Randomize some of the artifacts (beta): no  (adult_randarts)
+Adult: Auto-scum for good levels             : no  (adult_autoscum)
+Adult: Restrict the use of stairs/recall     : no  (adult_ironman)
+Adult: Restrict the use of stores/home       : no  (adult_no_stores)
+Adult: Restrict creation of artifacts        : no  (adult_no_artifacts)
+Adult: Don't stack objects on the floor      : no  (adult_no_stacking)
+Adult: Preserve artifacts when leaving level : no  (adult_no_preserve)
+Adult: Don't generate connected stairs       : no  (adult_no_stairs)
+Adult: Monsters chase current location       : yes (adult_ai_sound)
+Adult: Monsters chase recent locations       : yes (adult_ai_smell)
+Adult: Monsters act smarter in groups        : yes (adult_ai_packs)
+Adult: Monsters learn from their mistakes    : no  (adult_ai_learn)
+Adult: Monsters exploit players weaknesses   : no  (adult_ai_cheat)
+Adult: Monsters behave more intelligently (broken): no  (adult_ai_smart)
+Score: Peek into object creation             : no  (score_peek)
+Score: Peek into monster creation            : no  (score_hear)
+Score: Peek into dungeon creation            : no  (score_room)
+Score: Peek into something else              : no  (score_xtra)
+Score: Know complete monster info            : no  (score_know)
+Score: Allow player to avoid death           : no  (score_live)
+
+

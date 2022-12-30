@@ -1,0 +1,371 @@
+  [Angband 3.0.1 Character Dump]
+
+ Name   Dain II                                  Self  RB  CB  EB   Best
+ Sex    Male              Age        40   STR! 18/100  +2  +5 +19 18/360
+ Race   Dwarf             Height     48   INT! 18/100  -3  -2  +3  18/80
+ Class  Warrior           Weight    145   WIS! 18/100  +2  -2  +6 18/160
+ Title  ***WINNER***      Status     48   DEX! 18/100  -2  +2  +7 18/170
+ HP     1124/1124         Maximize    Y   CON! 18/100  +2  +2 +15 18/290
+ SP     0/0               Preserve    Y   CHR! 18/100  -3  -1  +7 18/130
+
+ Level           50       Armor    [46,+127]     Saving Throw     Heroic
+ Cur Exp   18529895       Fight    (+46,+42)     Stealth       Excellent
+ Max Exp   18529895       Melee    (+68,+67)     Fighting      Legendary
+ Adv Exp   ********       Shoot    (+56,+14)     Shooting      Legendary
+                          Blows       6/turn     Disarming        Superb
+ Gold       3527779       Shots       1/turn     Magic Device     Superb
+                                                 Perception         Good
+ Burden   245.5 lbs       Infra        90 ft     Searching     Very Good
+
+ You are the only child of a Dwarven Miner.  You are a well liked
+ child.  You have dark brown eyes, straight brown hair, a two foot
+ beard, and a dark complexion.
+
+
+
+  [Character Equipment]
+
+a) The Long Sword 'Ringil' (4d5) (+22,+25) (+10 to speed)
+   It can be activated for frost ball (100) every 40 turns if it is being
+   worn.
+   It affects your speed.
+   It fights against evil with holy fury.
+   It strikes at undead with holy wrath.
+   It is especially deadly against trolls.
+   It is a great bane of demons.
+   It does extra damage from frost.
+   It provides resistance to cold.
+   It provides resistance to fear.
+   It provides resistance to light.
+   It slows your metabolism.
+   It provides permanent light.
+   It speeds your regenerative powers.
+   It allows you to see invisible monsters.
+   It provides immunity to paralysis.
+   It has been blessed by the gods.
+b) The Light Crossbow 'Cubragol' (x3) (+10,+14) (+10)
+   It can be activated for fire branding of bolts every 999 turns if it is
+   being worn.
+   It affects your speed.
+   It provides resistance to fire.
+c) The Ring of Power 'Nenya' (+8,+8) (+2)
+   It can be activated for large frost ball (200) every 20+d20 turns if it
+   is being worn.
+   It affects your strength.
+   It affects your intelligence.
+   It affects your wisdom.
+   It affects your dexterity.
+   It affects your constitution.
+   It affects your charisma.
+   It affects your speed.
+   It sustains your intelligence.
+   It sustains your wisdom.
+   It sustains your charisma.
+   It provides immunity to cold.
+   It provides resistance to blindness.
+   It induces feather falling.
+   It speeds your regenerative powers.
+   It gives telepathic powers.
+   It allows you to see invisible monsters.
+   It provides immunity to paralysis.
+   It provides resistance to life draining.
+d) The Ring of Power 'Narya' (+6,+6) (+1)
+   It can be activated for large fire ball (120) every 20+d20 turns if it
+   is being worn.
+   It affects your strength.
+   It affects your intelligence.
+   It affects your wisdom.
+   It affects your dexterity.
+   It affects your constitution.
+   It affects your charisma.
+   It affects your speed.
+   It sustains your strength.
+   It sustains your wisdom.
+   It sustains your constitution.
+   It sustains your charisma.
+   It provides immunity to fire.
+   It provides resistance to fear.
+   It provides resistance to nether.
+   It slows your metabolism.
+   It speeds your regenerative powers.
+   It allows you to see invisible monsters.
+   It provides immunity to paralysis.
+e) a Coral Amulet of Trickery (+4)
+f) The Arkenstone of Thrain
+   It can be activated for detection every 30+d30 turns if it is being
+   worn.
+   It provides resistance to light.
+   It provides resistance to dark.
+   It allows you to see invisible monsters.
+   It provides resistance to life draining.
+g) The Mithril Plate Mail of Celeborn (-3) [35,+25] (+4)
+   It can be activated for genocide every 500 turns if it is being worn.
+   It affects your strength.
+   It affects your charisma.
+   It provides resistance to acid.
+   It provides resistance to electricity.
+   It provides resistance to fire.
+   It provides resistance to cold.
+   It provides resistance to dark.
+   It provides resistance to disenchantment.
+h) The Cloak 'Colannon' [1,+15] (+3)
+   It can be activated for teleport every 45 turns if it is being worn.
+   It affects your stealth.
+   It affects your speed.
+   It provides resistance to nexus.
+i) The Small Metal Shield of Thorin [3,+25] (+4)
+   It affects your strength.
+   It affects your constitution.
+   It provides immunity to acid.
+   It provides resistance to fear.
+   It provides resistance to sound.
+   It provides resistance to chaos.
+   It provides immunity to paralysis.
+j) The Golden Crown of Gondor [0,+15] (+3)
+   It can be activated for heal (500) every 250 turns if it is being worn.
+   It affects your strength.
+   It affects your wisdom.
+   It affects your constitution.
+   It affects your speed.
+   It provides resistance to fire.
+   It provides resistance to cold.
+   It provides resistance to light.
+   It provides resistance to blindness.
+   It provides resistance to confusion.
+   It provides resistance to sound.
+   It provides resistance to chaos.
+   It provides permanent light.
+   It speeds your regenerative powers.
+   It allows you to see invisible monsters.
+k) The Set of Leather Gloves 'Cambeleg' (+8,+8) [1,+15] (+2)
+   It affects your strength.
+   It affects your constitution.
+   It provides immunity to paralysis.
+l) The Pair of Metal Shod Boots of Thror [6,+20] (+3)
+   It affects your strength.
+   It affects your constitution.
+   It affects your speed.
+   It provides resistance to fear.
+
+
+  [Character Inventory]
+
+a) 20 Pieces of Elvish Waybread
+b) 3 Violet Speckled Potions of Life
+c) 4 Scrolls titled "seh sol alabie" of Holy Chant
+d) 5 Scrolls titled "arzebu snaglen" of Protection from Evil
+e) 3 Scrolls titled "yergcon bek" of Mass Genocide
+f) a Platinum Rod of Perception
+g) a Rusty Rod of Recall
+h) 4 Titanium Rods of Teleport Other
+i) The Palantir of Westernesse (+2) (charging)
+   It can be activated for clairvoyance every 50+d50 turns if it is being
+   worn.
+   It affects your intelligence.
+   It affects your wisdom.
+   It affects your searching.
+   It affects your infravision.
+   It provides resistance to blindness.
+   It provides resistance to chaos.
+   It gives telepathic powers.
+   It allows you to see invisible monsters.
+   It aggravates nearby creatures.
+   It drains experience.
+j) The Massive Iron Crown of Morgoth [0,+0] (+125) {cursed}
+   It affects your strength.
+   It affects your intelligence.
+   It affects your wisdom.
+   It affects your dexterity.
+   It affects your constitution.
+   It affects your charisma.
+   It affects your infravision.
+   It provides resistance to acid.
+   It provides resistance to electricity.
+   It provides resistance to fire.
+   It provides resistance to cold.
+   It provides resistance to poison.
+   It provides resistance to fear.
+   It provides resistance to light.
+   It provides resistance to dark.
+   It provides resistance to confusion.
+   It provides resistance to nexus.
+   It provides resistance to nether.
+   It provides permanent light.
+   It gives telepathic powers.
+   It allows you to see invisible monsters.
+   It is permanently cursed.
+k) The Great Axe of Eonwe (5d4) (+15,+18) [+8] (+2) (charging)
+   It can be activated for mass genocide every 1000 turns if it is being
+   worn.
+   It affects your strength.
+   It affects your intelligence.
+   It affects your wisdom.
+   It affects your dexterity.
+   It affects your constitution.
+   It affects your charisma.
+   It fights against evil with holy fury.
+   It strikes at undead with holy wrath.
+   It is especially deadly against orcs.
+   It is a great bane of demons.
+   It does extra damage from frost.
+   It provides immunity to cold.
+   It provides resistance to fear.
+   It allows you to see invisible monsters.
+   It provides immunity to paralysis.
+   It has been blessed by the gods.
+l) The Mighty Hammer 'Grond' (9d9) (+5,+25) [+10]
+   It is especially deadly against natural creatures.
+   It fights against evil with holy fury.
+   It is especially deadly against orcs.
+   It is especially deadly against trolls.
+   It is a great bane of dragons.
+   It is a great bane of demons.
+   It is a great bane of the undead.
+   It gives telepathic powers.
+   It allows you to see invisible monsters.
+   It induces earthquakes.
+   It aggravates nearby creatures.
+m) 19 Seeker Bolts of Slay Undead (4d5) (+13,+10)
+n) 17 Silver Bolts of Flame (3d5) (+9,+10)
+
+
+  [Home Inventory]
+
+a) 12 Scrolls titled "greme san" of *Identify*
+b) a Platinum Rod of Perception
+c) 2 Rusty Rods of Recall
+d) 2 Titanium Rods of Teleport Other
+e) 3 Maple Staffs of Healing (3 charges)
+f) 2 Teak Staffs of Genocide (3 charges)
+g) a Bloodstone Ring of Speed (+15)
+h) The Ring of Tulkas (+4)
+   It can be activated for haste self (75+d75 turns) every 150+d150 turns
+   if it is being worn.
+   It affects your strength.
+   It affects your dexterity.
+   It affects your constitution.
+   It provides resistance to fear.
+i) The Elfstone 'Elessar' (+7,+7) [+10] (+2)
+   It can be activated for heal (500) every 200 turns if it is being worn.
+   It affects your strength.
+   It affects your wisdom.
+   It affects your charisma.
+   It affects your speed.
+   It provides resistance to fire.
+   It provides resistance to poison.
+   It provides resistance to fear.
+j) Balance Dragon Scale Mail (-2) [30,+22]
+k) The Adamantite Plate Mail 'Soulkeeper' (-4) [40,+20] (+2)
+   It can be activated for heal (1000) every 444 turns if it is being worn.
+   It affects your constitution.
+   It sustains your constitution.
+   It provides resistance to acid.
+   It provides resistance to cold.
+   It provides resistance to fear.
+   It provides resistance to dark.
+   It provides resistance to confusion.
+   It provides resistance to nexus.
+   It provides resistance to nether.
+   It provides resistance to chaos.
+   It provides resistance to life draining.
+l) The Cloak of Thingol [1,+18] (+3)
+   It can be activated for recharge item I every 70 turns if it is being
+   worn.
+   It affects your dexterity.
+   It affects your charisma.
+   It provides resistance to acid.
+   It provides resistance to fire.
+   It provides resistance to cold.
+   It provides immunity to paralysis.
+m) The Large Metal Shield of Anarion [5,+20]
+   It sustains your strength.
+   It sustains your intelligence.
+   It sustains your wisdom.
+   It sustains your dexterity.
+   It sustains your constitution.
+   It sustains your charisma.
+   It provides resistance to acid.
+   It provides resistance to electricity.
+   It provides resistance to fire.
+   It provides resistance to cold.
+n) The Shield of Deflection of Gil-galad [10,+20] (+5)
+   It can be activated for starlight (10d8) every 100 turns if it is being
+   worn.
+   It affects your wisdom.
+   It affects your charisma.
+   It sustains your wisdom.
+   It sustains your dexterity.
+   It sustains your charisma.
+   It provides resistance to acid.
+   It provides resistance to electricity.
+   It provides resistance to dark.
+   It provides resistance to disenchantment.
+   It provides permanent light.
+o) The Jewel Encrusted Crown of Numenor [0,+18] (+3)
+   It affects your intelligence.
+   It affects your dexterity.
+   It affects your charisma.
+   It affects your searching.
+   It affects your speed.
+   It provides resistance to cold.
+   It provides resistance to light.
+   It provides resistance to dark.
+   It provides resistance to blindness.
+   It provides resistance to sound.
+   It provides resistance to shards.
+   It provides permanent light.
+   It allows you to see invisible monsters.
+   It provides immunity to paralysis.
+p) The Ball-and-Chain of Fundin Bluecloak (4d4) (+13,+17) [+10] (+4)
+   It can be activated for dispel evil (x5) every 100+d100 turns if it is
+   being worn.
+   It affects your strength.
+   It affects your wisdom.
+   It affects your speed.
+   It fights against evil with holy fury.
+   It strikes at undead with holy wrath.
+   It provides resistance to electricity.
+   It provides resistance to fire.
+   It provides resistance to nether.
+   It provides permanent light.
+   It provides resistance to life draining.
+q) The Short Bow of Amras (x2) (+12,+15) (+1 to speed)
+   It affects your intelligence.
+   It affects your wisdom.
+   It affects your dexterity.
+   It affects your speed.
+   It affects your shooting speed.
+   It affects your shooting power.
+   It provides resistance to electricity.
+   It provides resistance to fire.
+   It provides resistance to cold.
+   It slows your metabolism.
+r) The Long Bow 'Belthronding' (x3) (+20,+22) (+1)
+   It affects your dexterity.
+   It affects your stealth.
+   It affects your speed.
+   It affects your shooting speed.
+   It provides resistance to disenchantment.
+s) 18 Seeker Arrows of Holy Might (4d4) (+20,+19)
+t) 17 Seeker Arrows of Holy Might (4d4) (+17,+17)
+
+
+  [Options]
+
+Adult: Allow purchase of stats using points  : yes (adult_point_based)
+Adult: Allow specification of minimal stats  : no  (adult_auto_roller)
+Adult: Maximize effect of race/class bonuses : yes (adult_maximize)
+Adult: Preserve artifacts when leaving level : yes (adult_preserve)
+Adult: Restrict the use of stairs/recall     : no  (adult_ironman)
+Adult: Restrict the use of stores/home       : no  (adult_no_stores)
+Adult: Restrict creation of artifacts        : no  (adult_no_artifacts)
+Adult: Randomize some of the artifacts (beta): no  (adult_rand_artifacts)
+Adult: Don't stack objects on the floor      : no  (adult_no_stacking)
+Score: Peek into object creation             : no  (score_peek)
+Score: Peek into monster creation            : no  (score_hear)
+Score: Peek into dungeon creation            : no  (score_room)
+Score: Peek into something else              : no  (score_xtra)
+Score: Know complete monster info            : no  (score_know)
+Score: Allow player to avoid death           : no  (score_live)
+
+

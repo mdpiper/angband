@@ -1,0 +1,832 @@
+  [Angband 4.2.0 Character Dump]
+
+ Name   Huor         Age             61          Self  RB  CB  EB   Best
+ Race   Dunadan      Height        6'8"   STR! 18/100  +1  +0 +12 18/***
+ Class  Ranger       Weight    12st 8lb   INT! 18/100  +2  +0  +3 18/150
+ Title  ***WINNER*** Turns used:          WIS! 18/100  +2  +2  +7 18/210
+ HP     1039/1039    Game       1518808   DEX! 18/100  +2  +1  +7 18/200
+ SP     358/358      Standard    247896   CON! 18/100  +3  -1 +10 18/***
+                     Resting      38407
+
+ Level                 50    Armor    [125,+143]    Saving Throw    100%
+ Cur Exp         22691896                           Stealth    Excellent
+ Max Exp         22691896    Melee       4d5,+52    Disarm - phys.  100%
+ Adv Exp         ********    To-hit       91,+55    Disarm - magic   98%
+                             Blows      5.0/turn    Magic Devices     92
+ Gold            11212001                           Searching        93%
+ Burden          313.0 lb    Shoot to-dam    +15    Infravision     0 ft
+ Overweight      133.1 lb    To-hit      102,+45    Speed      20 (3.0x)
+ Max Depth   5000' (L100)    Shots      3.1/turn
+
+ You are one of several children of a Serf.  You are a credit to the
+ family.  You have blue eyes, straight brown hair, and an average
+ complexion.
+
+Resistances         Abilities
+ Acid:......+...... pFear:+.+++.+......
+ Elec:.+.........*. pBlnd:.........+...
+ Fire:.+.*+....+... pConf:.........+...
+ Cold:++....+..+... pStun:.........+...
+ Pois:....+........ HLife:.....++.+....
+Light:+....+...+... Regen:+..+.....+...
+ Dark:.....++......   ESP:...+.........
+Sound:........+..+. S.Inv:+..+.+...+...
+Shard:.......+..... FrAct:+..+.........
+Nexus:......+...... Feath:.............
+Nethr:......+...... S.Dig:++.+.........
+Chaos:......+...... TrpIm:.............
+Disen:........+.... Bless:+............
+
+Hindrances          Modifiers
+ImpHP:............. Stea.:.......+.....
+ImpSP:............. Sear.:.............
+ Fear:............. Infra:.............
+Aggrv:............. Tunn.:.............
+NoTel:............. Speed:++.++..+...+.
+DrExp:............. Blows:.............
+Stick:............. Shots:.+...........
+Fragl:............. Might:.+...........
+                    Light:+....+...+...
+                    D.Red:.............
+                    Moves:.............
+
+
+  [Last Messages]
+
+> You have the Mighty Hammer 'Grond' (9d9) (+5,+25) [+10] (s).
+> You feel life flow through your body!
+> You feel less stupid.
+> You feel less naive.
+> You feel very good.
+> You have 2 Potions of Life (g).
+> You drop a Staff of Teleportation (0 charges) (q).
+> You have no more Staves of Teleportation (0 charges) (q).
+> You have learned the rune of stuck on.
+> You have no more Scrolls of Identify Rune (j).
+> The prayer has expired.
+> The air about you becomes charged...
+> You feel yourself slow down.
+> You feel yourself yanked upwards!
+> Character dump successful.
+
+Killed by Ripe Old Age.
+
+  [Character Equipment]
+
+a) the Long Sword 'Ringil' (4d5) (+22,+25) <+10, +1>
+     Dropped by a stiffbeard sorcerer at 2900 feet (level 58)
+     
+     +10 speed.
+     +1 light.
+     Slays demons (powerfully), undead, trolls, evil creatures.
+     Branded with cold.
+     Provides resistance to cold, light.
+     Provides protection from fear.
+     Cannot be harmed by acid.
+     Slows your metabolism.  Speeds regeneration.  Grants the ability
+     to see invisible things.  Prevents paralysis.  Blessed by the
+     gods.  
+     
+     When activated, it creates a frost ball with damage 100.
+     Takes 120 turns to recharge at your current speed.
+     Your chance of success is 95.9%
+     
+     Combat info:
+     5.0 blows/round.
+     Average damage/round: 477.5 vs. creatures not resistant to cold,
+     612 vs. demons, 477.5 vs. undead, 477.5 vs. trolls, 410.5 vs. evil
+     creatures, and 343 vs. others.
+     
+b) the Short Bow of Amras (x3) (+12,+15) <+2, +1, +5>
+     Dropped by Uvatha the Horseman at 4000 feet (level 80)
+     
+     +2 intelligence.
+     +2 wisdom.
+     +2 dexterity.
+     +1 speed.
+     +5 shooting speed.
+     +1 shooting power.
+     Provides resistance to lightning, fire, cold.
+     Cannot be harmed by acid, fire.
+     Slows your metabolism.  
+     
+c) the Band of Tulkas <+4>
+     Found lying on the floor in a vault at 4500 feet (level 90)
+     
+     +4 strength.
+     +4 dexterity.
+     +4 constitution.
+     Provides protection from fear.
+     Cannot be harmed by lightning.
+     
+     When activated, it hastens you for d75+75 turns.
+     Takes 453 to 900 turns to recharge at your current speed.
+     Your chance of success is 89.5%
+     
+d) the Ring of Fire 'Narya' (+2,+2) <+1, +5>
+     Found lying on the floor in a vault at 4550 feet (level 91)
+     
+     +1 strength.
+     +1 intelligence.
+     +1 wisdom.
+     +1 dexterity.
+     +1 constitution.
+     +5 speed.
+     Provides immunity to fire.
+     Provides protection from fear.
+     Cannot be harmed by lightning.
+     Sustains strength, constitution.
+     Slows your metabolism.  Speeds regeneration.  Grants telepathy. 
+     Grants the ability to see invisible things.  Prevents paralysis.  
+     
+     When activated, it grants you protection from evil for 1d25 plus 3
+     times your character level turns.
+     Takes 612 to 1200 turns to recharge at your current speed.
+     Your chance of success is 89.5%
+     
+e) the Elfstone 'Elessar' [+10] <+2>
+     Dropped by Pazuzu, Lord of Air at 4500 feet (level 90)
+     
+     +2 strength.
+     +2 wisdom.
+     +2 speed.
+     Provides resistance to fire, poison.
+     Provides protection from fear.
+     
+     When activated, it heals 500 hit points.
+     Takes 600 turns to recharge at your current speed.
+     Your chance of success is 91.2%
+     
+f) the Arkenstone of Thráin <+3>
+     Conjured forth by magic at 4600 feet (level 92)
+     
+     +3 light.
+     Provides resistance to light, dark.
+     Cannot be harmed by fire.
+     Grants the ability to see invisible things.  Sustains your life
+     force.  
+     Intensity 3 light.
+     
+     When activated, it lights and maps the entire level, sensing
+     objects.
+     Takes 153 to 300 turns to recharge at your current speed.
+     Your chance of success is 92.6%
+     
+g) the Adamantite Plate Mail 'Soulkeeper' (-4) [90,+20] <+2>
+     Dropped by Baphomet the Minotaur Lord at 4500 feet (level 90)
+     
+     +2 constitution.
+     Provides resistance to acid, cold, dark, nexus, nether, chaos.
+     Provides protection from fear.
+     Cannot be harmed by acid.
+     Sustains constitution.
+     Sustains your life force.  
+     
+     When activated, it heals 1000 hit points.
+     Takes 1332 turns to recharge at your current speed.
+     Your chance of success is 88.6%
+     
+h) an Elven Cloak of Aman [6,+17] <+3, +1>
+     Dropped by Thuringwethil, the Vampire Messenger at 4650 feet
+     (level 93)
+     
+     +3 stealth.
+     +1 speed.
+     Provides resistance to shards.
+     Cannot be harmed by acid, fire.
+     
+i) a Knight's Shield of Preservation [15,+33]
+     Dropped by an ethereal dragon at 4650 feet (level 93)
+     
+     Provides resistance to sound, disenchantment.
+     Cannot be harmed by acid.
+     Sustains strength, dexterity, constitution.
+     Sustains your life force.  
+     
+j) the Golden Crown of Gondor [0,+15] <+3, +2, +1>
+     Dropped by an ancient gold dragon at 2900 feet (level 58)
+     
+     +3 strength.
+     +2 wisdom.
+     +3 constitution.
+     +1 light.
+     Provides resistance to fire, cold, light.
+     Provides protection from blindness, confusion, stunning.
+     Cannot be harmed by acid.
+     Speeds regeneration.  Grants the ability to see invisible things. 
+     
+     
+     When activated, it heals 500 hit points.
+     Takes 750 turns to recharge at your current speed.
+     Your chance of success is 93.9%
+     
+k) a Set of Mithril Gauntlets of Power (+5,+5) [6,+9] <+2>
+     Conjured forth by magic at 4650 feet (level 93)
+     
+     +2 strength.
+     Cannot be harmed by acid, fire.
+     
+l) the Pair of Mithril Shod Boots 'Stormwalker' [8,+24] <+6>
+     Dropped by Tevildo, Prince of Cats at 4500 feet (level 90)
+     
+     +6 speed.
+     Provides immunity to lightning.
+     Provides resistance to sound.
+     Cannot be harmed by acid, fire.
+     
+     When activated, it puts you in a berserker rage for d50+50 turns.
+     Takes 300 turns to recharge at your current speed.
+     Your chance of success is 94.9%
+     
+
+
+
+
+  [Character Inventory]
+
+a) a Book of Nature Magics [Lesser Charms]
+     
+     You can read this book.
+     
+b) a Book of Nature Magics [Nature Craft]
+     Cannot be harmed by fire.
+     
+     You can read this book.
+     
+c) 8 Mushrooms of Vigor
+d) 24 Potions of Cure Critical Wounds
+e) 13 Potions of Healing
+f) 8 Potions of *Healing*
+     It can be thrown at creatures with damaging effect.
+     
+g) 2 Potions of Life
+     It can be thrown at creatures with damaging effect.
+     
+h) a Potion of Heroism
+i) 20 Scrolls of Phase Door
+j) 4 Scrolls of Banishment
+k) 5 Scrolls of Mass Banishment
+l) 4 Scrolls of Holy Prayer
+m) 7 Rods of Healing (2 charging)
+     Cannot be harmed by lightning.
+     
+n) 9 Rods of Teleport Other
+o) a Rod of Recall (charging)
+     Cannot be harmed by lightning.
+     
+p) the Massive Iron Crown of Morgoth [0,+0] <+50, +1>
+     Dropped by Morgoth, Lord of Darkness at 5000 feet (level 100)
+     
+     +50 strength.
+     +50 intelligence.
+     +50 wisdom.
+     +50 dexterity.
+     +50 constitution.
+     +50 infravision.
+     +1 light.
+     Provides resistance to acid, lightning, fire, cold, poison, light,
+     dark, nexus, nether.
+     Provides protection from fear, confusion.
+     Cannot be harmed by acid.
+     Grants telepathy.  Grants the ability to see invisible things. 
+     Can't be removed.  
+     
+q) the Mighty Hammer 'Grond' (9d9) (+5,+25) [+10]
+     Dropped by Morgoth, Lord of Darkness at 5000 feet (level 100)
+     
+     Slays undead (powerfully), dragons (powerfully), demons
+     (powerfully), trolls, orcs, animals, evil creatures.
+     Cannot be harmed by acid, fire.
+     Grants telepathy.  Grants the ability to see invisible things. 
+     Sometimes creates earthquakes on impact.  Aggravates creatures
+     nearby.  
+     
+     Combat info:
+     4.3 blows/round.
+     Average damage/round: 1859.6 vs. undead, 1859.6 vs. dragons,
+     1859.6 vs. demons, 1234.7 vs. trolls, 1234.7 vs. orcs, 922.2 vs.
+     animals, 922.2 vs. evil creatures, and 609.7 vs. others.
+     
+
+
+
+
+  [Character Quiver]
+
+0) 24 Arrows of Lightning (2d4) (+14,+14)
+     Branded with lightning.
+     
+     Combat info:
+     Hits targets up to 120 feet away.
+     Average damage/round: 664 vs. creatures not resistant to
+     lightning, and 332 vs. others.
+     35% chance of breaking upon contact.
+     
+1) 26 Arrows of Acid (1d4) (+16,+14)
+     Branded with acid.
+     Cannot be harmed by acid.
+     
+     Combat info:
+     Hits targets up to 120 feet away.
+     Average damage/round: 615 vs. creatures not resistant to acid, and
+     307.5 vs. others.
+     35% chance of breaking upon contact.
+     
+2) 22 Mithril Arrows of Slay Dragon (3d4) (+11,+8)
+     Slays dragons.
+     Cannot be harmed by acid, fire.
+     
+     Combat info:
+     Hits targets up to 120 feet away.
+     Average damage/round: 595.5 vs. dragons, and 297.9 vs. others.
+     35% chance of breaking upon contact.
+     
+3) 13 Mithril Arrows of Slay Undead (3d4) (+17,+7)
+     Slays undead.
+     Cannot be harmed by acid, fire.
+     
+     Combat info:
+     Hits targets up to 120 feet away.
+     Average damage/round: 581.5 vs. undead, and 290.7 vs. others.
+     35% chance of breaking upon contact.
+     
+4) 19 Mithril Arrows of Wounding (3d4) (+23,+21)
+     Cannot be harmed by acid, fire.
+     
+     Combat info:
+     Hits targets up to 120 feet away.
+     Average damage/round: 428.7.
+     35% chance of breaking upon contact.
+     
+
+
+  [Home Inventory]
+
+a) 4 Books of Nature Magics [Nature Craft]
+     Cannot be harmed by fire.
+     
+     You can read this book.
+     
+b) 5 Mushrooms of Vigor
+c) 11 Potions of Healing
+d) 8 Potions of *Healing*
+     It can be thrown at creatures with damaging effect.
+     
+e) 5 Potions of Life
+     It can be thrown at creatures with damaging effect.
+     
+f) 5 Scrolls of Banishment
+g) 5 Scrolls of Mass Banishment
+h) 15 Scrolls of Holy Prayer
+i) 5 Rods of Recall (1 charging)
+     Cannot be harmed by lightning.
+     
+j) a Ring of Speed <+15>
+     Dropped by Oss�, Herald of Ulmo at 4500 feet (level 90)
+     
+     +15 speed.
+     
+k) the Amulet of Carlammas <+1, +3>
+     Found lying on the floor in a vault at 2400 feet (level 48)
+     
+     +1 strength.
+     +3 constitution.
+     Provides resistance to fire.
+     
+     When activated, it grants you protection from evil for 1d25 plus 3
+     times your character level turns.
+     Takes 678 to 1350 turns to recharge at your current speed.
+     Your chance of success is 92.6%
+     
+l) the Jewel 'Evenstar' <+2>
+     Dropped by Harowen the Black Hand at 2900 feet (level 58)
+     
+     +2 wisdom.
+     Provides resistance to cold, dark, nether.
+     Sustains wisdom, constitution.
+     Speeds regeneration.  Sustains your life force.  
+     
+     When activated, it restores your experience to full.
+     Takes 450 turns to recharge at your current speed.
+     Your chance of success is 93.9%
+     
+m) the Augmented Chain Mail of Caspanion (-2) [45,+20] <+2, +3>
+     Dropped by Castamir the Usurper at 2550 feet (level 51)
+     
+     +2 intelligence.
+     +2 wisdom.
+     +3 constitution.
+     Provides resistance to acid, poison.
+     Provides protection from confusion.
+     Cannot be harmed by acid.
+     
+     When activated, it destroys all doors surrounding you.
+     Takes 30 turns to recharge at your current speed.
+     Your chance of success is 95.4%
+     
+n) the Mithril Plate Mail of Celeborn (-3) [65,+25] <+3>
+     Dropped by a black wraith at 4500 feet (level 90)
+     
+     +3 strength.
+     Provides resistance to acid, lightning, fire, cold, dark,
+     disenchantment.
+     Cannot be harmed by acid.
+     
+     When activated, it removes all non-unique monsters represented by
+     a chosen symbol from the level, dealing you damage in the process.
+     Takes 1500 turns to recharge at your current speed.
+     Your chance of success is 93.9%
+     
+o) an Elven Cloak of the Magi [6,+18] <+2, +4, +1>
+     Dropped by a marilith at 4650 feet (level 93)
+     
+     +2 intelligence.
+     +4 stealth.
+     +1 speed.
+     Cannot be harmed by acid.
+     Sustains intelligence.
+     Slows your metabolism.  
+     
+p) an Ethereal Cloak of Aman [0,+33] <+1>
+     Dropped by Itangast the Fire Drake at 3700 feet (level 74)
+     
+     +1 stealth.
+     Provides resistance to nether.
+     Cannot be harmed by acid, fire.
+     
+q) the Small Metal Shield of Thorin [5,+25] <+3, +4, -1>
+     Conjured forth by magic at 4500 feet (level 90)
+     
+     +3 strength.
+     +4 constitution.
+     -1 stealth.
+     Provides immunity to acid.
+     Provides resistance to sound, chaos.
+     Provides protection from fear.
+     Cannot be harmed by acid.
+     Prevents paralysis.  
+     
+r) the Jewel Encrusted Crown of Númenor [0,+18] <+3, +2, +1>
+     Dropped by Gothmog, the High Captain of Balrogs at 4500 feet
+     (level 90)
+     
+     +3 intelligence.
+     +2 dexterity.
+     +3 searching skill.
+     +1 light.
+     Provides resistance to cold, light, dark, shards.
+     Provides protection from blindness, stunning.
+     Cannot be harmed by acid.
+     Grants the ability to see invisible things.  Prevents paralysis.  
+     
+s) the Set of Leather Gloves 'Cammithrim' (+5,+5) [1,+12] <+1>
+     Dropped by Castamir the Usurper at 2550 feet (level 51)
+     
+     +1 light.
+     Provides resistance to light.
+     Cannot be harmed by acid, fire.
+     Sustains constitution.
+     Prevents paralysis.  
+     
+     When activated, it fires a magic missile with damage 3d4.
+     Takes 6 turns to recharge at your current speed.
+     Your chance of success is 96.7%
+     
+t) the Pair of Leather Boots of Fëanor [2,+20] <+15>
+     Dropped by a F�anorian raider at 4100 feet (level 82)
+     
+     +15 speed.
+     Provides resistance to nexus.
+     Cannot be harmed by acid, fire.
+     
+     When activated, it hastens you for d20+20 turns.
+     Takes 600 turns to recharge at your current speed.
+     Your chance of success is 93.9%
+     
+u) the Pair of Leather Boots 'Dal-i-thalion' [2,+15] <+5>
+     Dropped by Ar-Pharaz�n the Golden at 2850 feet (level 57)
+     
+     +5 dexterity.
+     +5 speed.
+     Provides resistance to nether.
+     Provides protection from confusion.
+     Cannot be harmed by acid, fire.
+     Sustains constitution.
+     Prevents paralysis.  
+     
+     When activated, it cures you of fear and poison.
+     Takes 15 turns to recharge at your current speed.
+     Your chance of success is 96.7%
+     
+v) a Mace of Disruption of Gondolin (5d8) (+17,+21) <+1>
+     Found lying on the floor in a vault at 4050 feet (level 81)
+     
+     +1 light.
+     Slays undead, dragons, demons, trolls, orcs.
+     Provides resistance to dark.
+     Cannot be harmed by acid, fire.
+     Grants telepathy.  Grants the ability to see invisible things. 
+     Prevents paralysis.  
+     
+     Combat info:
+     5.0 blows/round.
+     Average damage/round: 686.5 vs. undead, 686.5 vs. dragons, 686.5
+     vs. demons, 686.5 vs. trolls, 686.5 vs. orcs, and 407.5 vs.
+     others.
+     
+w) the Short Bow of Amrod (x4) (+12,+15) <+2>
+     Dropped by a gorgon at 2300 feet (level 46)
+     
+     +2 strength.
+     +2 constitution.
+     +2 shooting power.
+     Provides resistance to lightning, fire, cold.
+     Cannot be harmed by acid, fire.
+     Speeds regeneration.  
+     
+
+
+[Player history]
+      Turn   Depth  Note
+         0      0'  Began the quest to destroy Morgoth.
+       879     50'  Reached level 2
+      2037     50'  Reached level 3
+      4049    100'  Reached level 4
+      4155    100'  Reached level 5
+      4356    100'  Killed Grip, Farmer Maggot's Dog
+      4439    100'  Reached level 6
+      5069    200'  Reached level 7
+      5180    200'  Killed Fang, Farmer Maggot's Dog
+      6052    200'  Reached level 8
+      7911    300'  Reached level 9
+      8760    400'  Reached level 10
+      9773    450'  Reached level 11
+     10972    450'  Killed Wormtongue, Agent of Saruman
+     10972    450'  Reached level 12
+     12295    500'  Killed Orfax, Son of Boldor
+     12598    500'  Reached level 13
+     13107    500'  Reached level 14
+     14624    600'  Reached level 15
+     15604    650'  Reached level 16
+     17193    650'  Reached level 17
+     18227    700'  Reached level 18
+     18913    700'  Killed Grishnákh, the Hill Orc
+     18928    700'  Killed Golfimbul, the Hill Orc Chief
+     19383    700'  Killed Bullroarer the Hobbit
+     19383    700'  Found the Long Sword 'Elvagil' (LOST)
+     20223    750'  Reached level 19
+     20915    750'  Reached level 20
+     22922    900'  Reached level 21
+     24762    950'  Reached level 22
+     24857    950'  Killed Nár, the Dwarf
+     24857    950'  Found the Rapier 'Careth Asdriag' (LOST)
+     25656   1000'  Reached level 23
+     25951   1050'  Found the Quarterstaff 'Eriril' (LOST)
+     26305   1050'  Killed Bolg, Son of Azog
+     26305   1050'  Reached level 24
+     27716   1100'  Reached level 25
+     28870   1150'  Killed Azog, Enemy of the Dwarves
+     31383   1150'  Reached level 26
+     32496   1150'  Reached level 27
+     33098   1200'  Killed Sangahyando of Umbar
+     33098   1200'  Found the Phial of Galadriel (LOST)
+     33148   1200'  Killed Angamaitë of Umbar
+     36196   1250'  Killed Khîm, Son of Mîm
+     37902   1250'  Killed Ulfast, Son of Ulfang
+     38521   1250'  Reached level 28
+     38598   1250'  Killed Ulwarth, Son of Ulfang
+     40747   1300'  Killed Uldor the Accursed
+     40845      0'  Reached level 28
+     42530   1550'  Killed Gorbag, the Orc Captain
+     43161   1600'  Reached level 29
+     50579   1700'  Killed Draebor, the Imp
+     50583   1700'  Reached level 30
+     50593   1700'  Found the Bastard Sword 'Calris' (LOST)
+     51722   1750'  Killed Boldor, King of the Yeeks
+     52526   1750'  Killed Shagrat, the Orc Captain
+     52732   1750'  Killed Lugdush, the Uruk
+     53107   1750'  Killed Brodda, the Easterling
+     55170   1800'  Found the Metal Cap of Thengel (LOST)
+     55307   1800'  Reached level 31
+     55888   1850'  Killed Mughash the Kobold Lord
+     59162   1850'  Reached level 32
+     60041   1850'  Killed Ulfang the Black
+     61576   1850'  Killed The Queen Ant
+     61843   1850'  Reached level 33
+     63862   1900'  Killed Lorgan, Chief of the Easterlings
+     64411   1900'  Killed Mîm, Betrayer of Turin
+     64421   1900'  Killed Ibun, Son of Mîm
+     68031   2050'  Killed Gorlim, Betrayer of Barahir
+     68470   2050'  Killed Uglúk, the Uruk
+     68474   2050'  Reached level 34
+     68507   2050'  Found the Battle Axe of Balli Stonehand (LOST)
+     69326   2050'  Found the Dagger 'Narthanc' (LOST)
+     69382   2050'  Reached level 34
+     71109   2050'  Found the Long Sword 'Anguirel' (LOST)
+     73986      0'  Reached level 35
+     74973   2250'  Killed Ufthak of Cirith Ungol
+     75694   2250'  Killed Tom the Stone Troll
+     75712   2250'  Killed Bert the Stone Troll
+     75712   2250'  Reached level 35
+     75754   2250'  Killed Bill the Stone Troll
+     76047   2250'  Killed Quaker, Master of Earth
+     77042   2300'  Reached level 35
+     78485   2300'  Found the Short Bow of Amrod
+     78690   2300'  Killed Rogrog the Black Troll
+     78691   2300'  Found the Rapier 'Forasgil' (LOST)
+     79058   2300'  Killed Ariel, Queen of Air
+     79291   2300'  Killed Lokkak, the Ogre Chieftain
+     81402   2400'  Reached level 36
+     82045   2400'  Found the Dagger 'Dethanc' (LOST)
+     82153   2400'  Reached level 36
+     82891   2400'  Found the Iron Helm of Gorlim (LOST)
+     83031   2400'  Found the Flail 'Totila' (LOST)
+     83367   2400'  Found the Amulet of Carlammas
+     83392   2400'  Killed Waldern, King of Water
+     83869   2400'  Found the Scimitar 'Haradekket' (LOST)
+     88715   2500'  Reached level 37
+     94356   2550'  Killed Castamir the Usurper
+     94357   2550'  Found the Augmented Chain Mail of Caspanion
+     94362   2550'  Found the Set of Leather Gloves 'Cammithrim'
+     95372   2550'  Reached level 38
+     96946   2550'  Killed Old Man Willow
+     97531   2550'  Reached level 39
+     98604   2550'  Reached level 37
+     98709   2550'  Killed Vargo, Tyrant of Fire
+     99120      0'  Reached level 38
+     99120      0'  Reached level 39
+     99763   2600'  Reached level 39
+    102293   2600'  Reached level 40
+    102563   2600'  Found the Cloak 'Holcolleth' (LOST)
+    103972   2600'  Killed Beorn, the Shape-Changer
+    104651   2650'  Found the Set of Gauntlets 'Paurhach' (LOST)
+    104663   2650'  Found the Leather Scale Mail 'Thalkettoth' (LOST)
+    110199   2800'  Killed Eöl, the Dark Elf
+    110205   2800'  Found the Short Sword 'Dagmor' (LOST)
+    112968   2850'  Killed Ar-Pharazôn the Golden
+    112983   2850'  Found the Pair of Leather Boots 'Dal-i-thalion'
+    113542   2900'  Reached level 41
+    114324   2900'  Reached level 41
+    115159   2900'  Killed Kavlax the Many-Headed
+    115181   2900'  Found the Golden Crown of Gondor
+    115208   2900'  Found the Chain Mail of Arvedui (LOST)
+    115274   2900'  Killed Harowen the Black Hand
+    115303   2900'  Found the Jewel 'Evenstar'
+    115616   2900'  Found the Long Sword 'Ringil'
+    116128   2900'  Found the Soft Leather Armour 'Hithlomir' (LOST)
+    116163   2900'  Reached level 42
+    116263   2900'  Found the Cloak of Thorongil (LOST)
+    118264   2900'  Found the Morning Star 'Firestar' (LOST)
+    118488   2900'  Found the Wicker Shield of Elros (LOST)
+    118493   2900'  Found the Hard Leather Armour of Himring (LOST)
+    118865   3150'  Killed Saruman of Many Colours
+    119495   3150'  Killed Fundin Bluecloak
+    119495   3150'  Reached level 43
+    119740   3150'  Killed Gilim, the Giant of Eruman
+    120993   3200'  Found the Zweihander 'Mormegil' (LOST)
+    122629   3500'  Killed The Mouth of Sauron
+    122981   3500'  Reached level 44
+    124952   3600'  Killed Tselakus, the Dreadlord
+    124952   3600'  Found the Pendant of Ingwë (LOST)
+    124966   3600'  Found the Hard Leather Cap of Thranduil (LOST)
+    125021   3600'  Reached level 45
+    125440   3600'  Found the Mattock of Náin (LOST)
+    125836   3600'  Killed Smaug the Golden
+    126861   3600'  Killed Scatha the Worm
+    127245   3600'  Reached level 46
+    128626   3650'  Reached level 47
+    128662   3650'  Found the Set of Gauntlets 'Pauraegen' (LOST)
+    130955   3700'  Found the Two-Handed Great Flail 'Thunderfist' (LOST)
+    131117   3700'  Found the Pike 'Til-i-arc' (LOST)
+    131118   3700'  Found the Iron Crown of Berúthiel (LOST)
+    131681   3700'  Reached level 48
+    133113   3700'  Killed Itangast the Fire Drake
+    133128   3700'  Found the Dagger of Rilia (LOST)
+    134086   3700'  Killed Draugluin, Sire of All Werewolves
+    134413   3750'  Found the Ball-and-Chain of Fundin Bluecloak (LOST)
+    135826   3750'  Found the Mace 'Taratol' (LOST)
+    136614   3750'  Reached level 49
+    136812   3750'  Reached level 49
+    136869   3750'  Found the Leather Shield of the Haradrim (LOST)
+    141107   3800'  Reached level 50
+    143405   3850'  Killed The Balrog of Moria
+    143406   3850'  Found the Pick of Erebor (LOST)
+    143418   3850'  Found the Leather Shield of Celegorm (LOST)
+    143651   3850'  Found the Executioner's Sword 'Crisdurian' (LOST)
+    145227   3900'  Killed Akhorahil the Blind
+    145237   3900'  Killed Adunaphel the Quiet
+    146398   3900'  Found the Ring of Barahir (LOST)
+    147746   3900'  Found the Mithril Chain Mail 'Belegennon' (LOST)
+    148198   3900'  Found the Set of Gauntlets 'Paurnimmen' (LOST)
+    152825   4000'  Killed Uvatha the Horseman
+    152827   4000'  Found the Short Bow of Amras
+    154137   4050'  Found the Lucerne Hammer 'Turmil' (LOST)
+    154163   4050'  Found the Lochaber Axe 'Mundwine' (LOST)
+    156230   4050'  Killed Maeglin, the Traitor of Gondolin
+    156588   4050'  Killed Lagduf, the Snaga
+    157577   4050'  Killed Feagwath, the Undead Sorcerer
+    157644   4050'  Found the Heavy Crossbow of Umbar (LOST)
+    157714   4050'  Killed Ren the Unclean
+    158857   4100'  Killed Sméagol
+    160177   4100'  Found the Iron Helm 'Holhenneth' (LOST)
+    162949   4100'  Found the Pair of Leather Boots of Fëanor
+    163095   4100'  Killed The Phoenix
+    165976   4150'  Killed Ungoliant, the Unlight
+    167153   4150'  Killed Ji Indur Dawndeath
+    167303   4150'  Killed Omarax, the Eye Tyrant
+    172842   4300'  Killed Khamûl, the Black Easterling
+    172842   4300'  Found the Metal Cap of Celebrimbor (LOST)
+    172847   4300'  Found the Blade of Chaos 'Doomcaller' (LOST)
+    174573   4300'  Killed Ancalagon the Black
+    174792   4300'  Found the Full Plate Armour of Isildur (LOST)
+    175225   4300'  Killed Dwar, Dog Lord of Waw
+    177887   4350'  Found the Katana 'Aglarang' (LOST)
+    180040   4350'  Killed Shelob, Spider of Darkness
+    180783   4400'  Killed Hoarmurath of Dir
+    184018   4450'  Found the Star of Elendil (LOST)
+    184483   4450'  Killed Lungorthin, the Balrog of White Fire
+    186606   4500'  Killed Tevildo, Prince of Cats
+    186606   4500'  Found the Pair of Mithril Shod Boots 'Stormwalker'
+    186857   4500'  Killed Ossë, Herald of Ulmo
+    189029   4500'  Killed Glaurung, Father of the Dragons
+    192311   4500'  Found the Mithril Plate Mail of Celeborn
+    193482   4500'  Found the Band of Tulkas
+    194401   4500'  Killed Gothmog, the High Captain of Balrogs
+    194464   4500'  Found the Scythe 'Avavir' (LOST)
+    194465   4500'  Found the Jewel Encrusted Crown of Númenor
+    197666   4500'  Killed Huan, Wolfhound of the Valar
+    200973   4500'  Found the Small Metal Shield of Thorin
+    201981   4500'  Killed Baphomet the Minotaur Lord
+    202005   4500'  Found the Adamantite Plate Mail 'Soulkeeper'
+    203370   4500'  Killed Pazuzu, Lord of Air
+    203370   4500'  Found the Elfstone 'Elessar'
+    204340   4500'  Killed Makar, the Warrior
+    205088   4500'  Killed Wiruin, the Maelstrom
+    205758   4500'  Killed The Witch-King of Angmar
+    207689   4550'  Killed Cantoras, the Skeletal Lord
+    207769   4550'  Found the Ring of Fire 'Narya'
+    209818   4600'  Found the Metal Brigandine Armour of the Rohirrim (LOST)
+    212966   4600'  Found the Arkenstone of Thráin
+    215058   4600'  Killed Nan, the Giant
+    215086   4600'  Found the Pair of Steel Shod Boots of Thrór (LOST)
+    221886   4650'  Found the Dagger 'Angrist' (LOST)
+    222115   4650'  Found the Light Crossbow 'Cubragol' (LOST)
+    222377   4650'  Found the Battle Axe 'Lotharang' (LOST)
+    222579   4650'  Killed Thuringwethil, the Vampire Messenger
+    223538   4650'  Found the Knight's Shield of Eärendil (LOST)
+    225157   4650'  Killed Qlzqqlzuup, the Emperor Quylthulg
+    229599   4700'  Killed Meássë, the Bloody
+    229842   4700'  Killed Carcharoth, the Jaws of Thirst
+    234630   4850'  Found the Spear of Oromë (LOST)
+    240106   4900'  Killed Vecna, the Emperor Lich
+    242731   4950'  Killed Sauron, the Sorcerer
+    247711   5000'  Killed Morgoth, Lord of Darkness
+    247723   5000'  Found the Mighty Hammer 'Grond'
+    247724   5000'  Found the Cloak 'Colluin' (LOST)
+    247725   5000'  Found the Massive Iron Crown of Morgoth
+
+
+  [Options]
+
+  [User interface]
+
+Use the roguelike command keyset             : no  (rogue_like_commands)
+Use sound                                    : no  (use_sound)
+Show damage player deals to monsters         : yes (show_damage)
+Use old target by default                    : yes (use_old_target)
+Always pickup items                          : no  (pickup_always)
+Always pickup items matching inventory       : yes (pickup_inven)
+Show flavors in object descriptions          : no  (show_flavors)
+Highlight target with cursor                 : yes (show_target)
+Highlight player with cursor between turns   : no  (highlight_player)
+Disturb whenever viewable monster moves      : yes (disturb_near)
+Show walls as solid blocks                   : no  (solid_walls)
+Show walls with shaded background            : no  (hybrid_walls)
+Color: Illuminate torchlight in yellow       : no  (view_yellow_light)
+Color: Shimmer multi-colored things          : no  (animate_flicker)
+Center map continuously                      : no  (center_player)
+Color: Show unique monsters in purple        : no  (purple_uniques)
+Automatically clear '-more-' prompts         : no  (auto_more)
+Color: Player color indicates % hit points   : yes (hp_changes_color)
+Allow mouse clicks to move the player        : no  (mouse_movement)
+Notify on object recharge                    : yes (notify_recharge)
+Show effective speed as multiplier           : no  (effective_speed)
+
+  [Birth]
+
+Generate a new, random artifact set          : no  (birth_randarts)
+Generate connected stairs                    : yes (birth_connect_stairs)
+Force player descent (never make up stairs)  : no  (birth_force_descend)
+Word of Recall has no effect                 : no  (birth_no_recall)
+Restrict creation of artifacts               : no  (birth_no_artifacts)
+Stack objects on the floor                   : yes (birth_stacking)
+Lose artifacts when leaving level            : no  (birth_lose_arts)
+Show level feelings                          : yes (birth_feelings)
+Increase gold drops but disable selling      : yes (birth_no_selling)
+Start with a kit of useful gear              : yes (birth_start_kit)
+Monsters learn from their mistakes           : no  (birth_ai_learn)
+Know all runes on birth                      : no  (birth_know_runes)
+Know all flavors on birth                    : no  (birth_know_flavors)
+Persistent levels (experimental)             : no  (birth_levels_persist)
+To-damage is a percentage of dice (experimental): no  (birth_percent_damage)
+
