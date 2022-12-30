@@ -17,3 +17,5 @@ See available fonts:
     fc-list | cut -f2 -d: | sort -u
 
 Or use Terminal.
+
+I'm still on the [ladder](http://angband.oook.cz/ladder-show.php?id=2010).
