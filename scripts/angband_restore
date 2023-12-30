@@ -1,0 +1,21 @@
+#!/bin/bash
+# Restore a backed-up angband character.
+
+ANGBAND_DIR=$HOME/.angband/Angband
+BACKUP_DIR=$HOME/tmp/angband_backup
+
+if [ ! -d $BACKUP_DIR ]; then
+    echo "Backup directory $BACKUP_DIR not found."
+    exit 1
+fi
+
+echo "Restoring Angband character from $BACKUP_DIR..."
+
+cp -p $BACKUP_DIR/scores.raw $ANGBAND_DIR/scores
+cp -p $BACKUP_DIR/Mpiper $ANGBAND_DIR/save
+
+if [ $? -eq 0 ]; then
+    echo "Done."
+fi
+
+exit 0

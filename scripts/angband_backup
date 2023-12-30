@@ -1,0 +1,18 @@
+#!/bin/bash
+# Back up the current angband character.
+
+ANGBAND_DIR=$HOME/.angband/Angband
+BACKUP_DIR=$HOME/tmp/angband_backup
+
+echo "Backing up Angband character to $BACKUP_DIR..."
+
+mkdir -p $BACKUP_DIR
+
+cp -p $ANGBAND_DIR/scores/scores.raw $BACKUP_DIR
+cp -p $ANGBAND_DIR/save/Mpiper $BACKUP_DIR
+
+if [ $? -eq 0 ]; then
+    echo "Done."
+fi
+
+exit 0
